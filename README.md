@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+deployed in https://git-practice-redux.vercel.app/
+
+![image](https://github.com/aritrichatterjee9/gitPracticeRedux/assets/73156770/30b31a6a-0b50-43a8-b5e7-4f2f25b8d756)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
